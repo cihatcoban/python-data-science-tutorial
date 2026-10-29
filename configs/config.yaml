@@ -1,0 +1,29 @@
+# Merkezi Veri Bilimi Konfigürasyonu
+project:
+  name: "python-data-science"
+  version: "1.0.0"
+  author: "Cihat Çoban"
+  seed: 42
+
+paths:
+  raw_data_dir: "data/raw"
+  processed_data_dir: "data/processed"
+  models_dir: "models"
+  reports_dir: "reports"
+
+data:
+  students_file: "data/raw/sample_students.csv"
+  housing_file: "data/raw/sample_housing.csv"
+  target_column: "price"
+  test_size: 0.2
+  val_size: 0.1
+
+model:
+  type: "random_forest"
+  n_estimators: 100
+  max_depth: 10
+  learning_rate: 0.05
+
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"

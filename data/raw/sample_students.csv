@@ -1,0 +1,16 @@
+student_id,name,midterm1,midterm2,final_exam,attendance_rate,department
+STD001,Ahmet Yilmaz,75,82,88,0.95,Computer Science
+STD002,Ayse Kaya,90,85,94,0.98,Data Engineering
+STD003,Mehmet Demir,45,52,60,0.78,Industrial Engineering
+STD004,Fatma Celik,65,70,72,0.85,Statistics
+STD005,Ali Can,30,42,48,0.65,Computer Science
+STD006,Zeynep Sahin,88,92,90,0.92,Data Engineering
+STD007,Burak Yildiz,58,62,55,0.8,Software Engineering
+STD008,Elif Ozturk,95,98,100,1.0,Computer Science
+STD009,Can Korkmaz,40,35,45,0.7,Industrial Engineering
+STD010,Deniz Aydin,82,80,85,0.9,Statistics
+STD011,Emre Kilic,70,75,78,0.88,Software Engineering
+STD012,Seda Gunes,92,90,95,0.96,Data Engineering
+STD013,Murat Aslan,50,48,52,0.72,Computer Science
+STD014,Busra Dogan,62,68,70,0.84,Industrial Engineering
+STD015,Oguz Koc,35,40,38,0.6,Software Engineering
